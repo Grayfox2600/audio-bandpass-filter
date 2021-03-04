@@ -1,7 +1,5 @@
 # audio-bandpass-filter
 
-Blackman Window bandpass filter design project.
-
 A tuning fork with a known frequency of 329.6 Hz was recorded and the signal was mathematically altered with random noise. A Blackman Window bandpass filter is then applied to the signal to attenuate all frequencies outside of the range of 320-340 Hz. The signals are graphed to showcase the efficacy of the bandpass filter.
 
 Original tuning fork recording:
